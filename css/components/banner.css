@@ -1,0 +1,14 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 500px;
+  color: white;
+  text-align: center;
+}
+
+.banner p {
+  margin-bottom: 35px;
+}

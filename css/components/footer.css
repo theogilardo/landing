@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  padding: 40px;
+  background-color: #2c2b2b;
+  color: white
+}
+
+.links a {
+  font-size: 30px;
+  color: #1EDD88;
+}
+

@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+
+.container h2 {
+  margin-top: 30px;
+}
+
+.cards img {
+ height: 150px;
+ width: 150px;
+}
+
+.card {
+  border: 0.5px lighter;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin: 30px 40px 45px 40px;
+  padding: 15px 15px;
+}
+
+
